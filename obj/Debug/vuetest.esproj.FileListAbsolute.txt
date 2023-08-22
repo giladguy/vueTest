@@ -1,0 +1,2 @@
+C:\Users\gilad\source\repos\vueTest\obj\Debug\vuetest.esproj.SuggestedBindingRedirects.cache
+C:\Users\gilad\source\repos\vueTest\obj\Debug\vuetest.esproj.CoreCompileInputs.cache

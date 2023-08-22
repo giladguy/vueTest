@@ -1,0 +1,24 @@
+@import './quasar.variables.scss';
+
+
+td.q-td.usersGridthumbnail{
+	width :80px;
+}
+
+.inlineContent {
+	align-items: center;
+	justify-content: flex-start;
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: row;
+}
+
+.inlineContent>label{
+	margin-left :10px;
+}
+
+/*
+tr:nth-child(even) {
+	background-color: #3498db14 !important;
+
+	}*/

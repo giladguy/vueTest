@@ -1,0 +1,13 @@
+@import './quasar.variables.scss';
+@import '~quasar-styl';
+// @import '~quasar-addon-styl'
+
+.my-card{
+width: 100%;
+max-width: 400px;
+}
+
+i.q-icon.text-primary.notranslate.material-icons.absolute.unisexf {
+    left: -3px;
+    top: 11px;
+    }
